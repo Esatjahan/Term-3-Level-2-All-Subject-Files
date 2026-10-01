@@ -1,6 +1,6 @@
 # Term 3 Level 2 All Subject Files
 
-This repository contains all academic materials for **Term 3 Level 2** of the CSE program.
+This repository contains all academic materials for **Term 3 Level 2** of the IRE program.
 
 It includes lecture notes, slides, assignments, lab works, reports, and other important resources collected from different courses.
 
